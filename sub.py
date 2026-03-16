@@ -1,5 +1,6 @@
 a=10
 b=9
-print("this is subtraction")
+print("this subtraction")
 print(a-b)
+
 
